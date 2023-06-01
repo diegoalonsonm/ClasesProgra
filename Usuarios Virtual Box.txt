@@ -1,0 +1,26 @@
+Kali Linux
+
+US:kali	
+PASS: Fidelitas.23
+
+
+Linux Ubuntu 
+
+us: ubuntu
+pass: Fidelitas.23
+
+Ubuntu Server
+
+labserver login: administrator
+pass:Fidelitas.23
+
+
+Metasploitable 2
+
+us: msfadmin
+pass: msfadmin
+
+OWASP Broken Web Application
+
+us:root
+pass:owaspbwa
